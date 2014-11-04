@@ -1,5 +1,5 @@
 ReX
-====o
+====
 
 Usage help: java -jar -Xmx64g rexRand.jar -h
 
